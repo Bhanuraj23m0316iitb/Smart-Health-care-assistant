@@ -1,5 +1,3 @@
-![Smart Healthcare Assistant UI](streamlit_frontend.png)
-
 ---
 title: Smart Healthcare Assistant
 sdk: streamlit
@@ -11,6 +9,7 @@ sdk_version: 1.46.0
 ---
 
 # **Smart Healthcare Assistant**
+![Smart Healthcare Assistant UI](streamlit_frontend.png)
 
 ## Overview
 The **Smart Healthcare Assistant** is an AI-powered application that simplifies access to medical and healthcare knowledge by enabling users to query multiple documents simultaneously. Built with **Streamlit** and **Python**, and powered by **Retrieval-Augmented Generation (RAG)**, it provides accurate, context-aware responses from healthcare PDFs and documents.
