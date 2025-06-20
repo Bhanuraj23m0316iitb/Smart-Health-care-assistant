@@ -129,6 +129,14 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+# Ignore all PDF files
+data/*.pdf
+
+# Ignore vector DB
+vector_db_dir/
+
+# Ignore PNGs
+*.png
 .env
 .venv
 venv2
