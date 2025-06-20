@@ -33,6 +33,7 @@ The **Smart Healthcare Assistant** is an AI-powered application that simplifies 
 👤 **Bhanuraj**  
 📧 **badalbhanuraj@gmail.com**  
 
-📌 **GitHub Repo**: [GitHub](https://github.com/bijaycd/Smart-Healthcare-Assistant)  
+📌 **GitHub Repo**: [GitHub]((https://github.com/Bhanuraj23m0316iitb/Smart-Health-care-assistant))  
+
 
 ---
