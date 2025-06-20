@@ -137,6 +137,14 @@ vector_db_dir/
 
 # Ignore PNGs
 *.png
+# Ignore binary files and vectors
+*.pdf
+*.png
+*.sqlite3
+*.bin
+vector_db_dir/
+data/
+
 .env
 .venv
 venv2
